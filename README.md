@@ -15,6 +15,8 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
    * Responsive images
 
+   * add MIT licefnse to readme
+
 * The Bootstrap portfolio should minimize the use of media queries.
 
 * Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
