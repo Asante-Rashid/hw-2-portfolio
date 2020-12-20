@@ -9,8 +9,6 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * Using Bootstrap, develop your portfolio site with the following items:
 
-   * A navbar
-
    * A responsive layout
 
    * Responsive images
@@ -34,10 +32,6 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 * Functional, deployed application
 
 * GitHub repository with README describing the project
-
-* Navbar must be consistent on each page.
-
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
 
 * All links must work.
 
